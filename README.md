@@ -1,0 +1,2 @@
+# Projeto calculadora em py e sh
+Este projeto apresenta duas versões executáveis de uma calculadora, desenvolvidas em Python e Shell Script (Bash). As duas implementações possuem funcionalidades equivalentes, incluindo operações aritméticas básicas, divisão inteira, potenciação, cálculo de resto da divisão e operadores de comparação. O objetivo é demonstrar a aplicação dos mesmos conceitos de lógica e programação em diferentes linguagens.
